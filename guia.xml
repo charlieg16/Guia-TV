@@ -1,0 +1,1680 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Uno FHD">
+    <display-name lang="es">Canal Uno FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuavisa Quito Full HD">
+    <display-name lang="es">Ecuavisa Quito Full HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Gama Full HD">
+    <display-name lang="es">Gama Full HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Tc Television Full HD">
+    <display-name lang="es">Tc Television Full HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleamazonas FHD(Guayaquil)">
+    <display-name lang="es">Teleamazonas FHD(Guayaquil)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleamazonas Full HD(Quito)">
+    <display-name lang="es">Teleamazonas Full HD(Quito)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Rts Full HD">
+    <display-name lang="es">Rts Full HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuador TV Full HD">
+    <display-name lang="es">Ecuador TV Full HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuador TV HD">
+    <display-name lang="es">Ecuador TV HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210602003000 -0500" stop="20210602020000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210602020000 -0500" stop="20210602030000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210602030000 -0500" stop="20210602050000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210602050000 -0500" stop="20210602054500 -0500" channel="Canal Uno FHD">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210602054500 -0500" stop="20210602060000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210602060000 -0500" stop="20210602063000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210602063000 -0500" stop="20210602070000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210602070000 -0500" stop="20210602080000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210602080000 -0500" stop="20210602090000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210602090000 -0500" stop="20210602093000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210602093000 -0500" stop="20210602100000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210602100000 -0500" stop="20210602103000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210602103000 -0500" stop="20210602104500 -0500" channel="Canal Uno FHD">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210602104500 -0500" stop="20210602113000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210602113000 -0500" stop="20210602120000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210602120000 -0500" stop="20210602133000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210602133000 -0500" stop="20210602134500 -0500" channel="Canal Uno FHD">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210602134500 -0500" stop="20210602150000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602180000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210602180000 -0500" stop="20210602183000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210602183000 -0500" stop="20210602190000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Redux</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Canal Uno FHD">
+    <title lang="es">El pantanal</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602220000 -0500" channel="Canal Uno FHD">
+    <title lang="es">La ronca de oro</title>
+  </programme>
+  <programme start="20210602220000 -0500" stop="20210602230000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Doña Bella</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210603000000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210603160000 -0500" stop="20210603180000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210604060000 -0500" stop="20210604063000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210604063000 -0500" stop="20210604070000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210604070000 -0500" stop="20210604080000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210604080000 -0500" stop="20210604083000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210604083000 -0500" stop="20210604090000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210604090000 -0500" stop="20210604093000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210604093000 -0500" stop="20210604103000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210604103000 -0500" stop="20210604110000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210604110000 -0500" stop="20210604113000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210604120000 -0500" stop="20210604130000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Ocurrió Así</title>
+  </programme>
+  <programme start="20210604130000 -0500" stop="20210604133000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210604133000 -0500" stop="20210604134500 -0500" channel="Canal Uno FHD">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210604134500 -0500" stop="20210604143000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210604143000 -0500" stop="20210604163000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210604163000 -0500" stop="20210604183000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210604183000 -0500" stop="20210604190000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210604190000 -0500" stop="20210604203000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210604203000 -0500" stop="20210604223000 -0500" channel="Canal Uno FHD">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20210604223000 -0500" stop="20210605003000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210605223000 -0500" stop="20210606003000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210606103000 -0500" stop="20210606110000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210606120000 -0500" stop="20210606123000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210606123000 -0500" stop="20210606133000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210606143000 -0500" stop="20210606150000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210606150000 -0500" stop="20210606170000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210606170000 -0500" stop="20210606183000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210606183000 -0500" stop="20210606190000 -0500" channel="Canal Uno FHD">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210602023000 -0500" stop="20210602050000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210602050000 -0500" stop="20210602055500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Totalmente Diva</title>
+  </programme>
+  <programme start="20210602055500 -0500" stop="20210602065500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210602065500 -0500" stop="20210602073000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210602073000 -0500" stop="20210602083000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210602083000 -0500" stop="20210602093000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210602093000 -0500" stop="20210602103000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210602103000 -0500" stop="20210602130000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210602130000 -0500" stop="20210602140000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210602140000 -0500" stop="20210602150000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Silvana sin lana</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602163000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210602163000 -0500" stop="20210602171500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Doña Bella</title>
+  </programme>
+  <programme start="20210602171500 -0500" stop="20210602180000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210602180000 -0500" stop="20210602190000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">No me olvides</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602204500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210602204500 -0500" stop="20210602213000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">No me dejes ir</title>
+  </programme>
+  <programme start="20210602213000 -0500" stop="20210602221500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210602221500 -0500" stop="20210602230000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Betty en NY</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210603000000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210603163000 -0500" stop="20210603171500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Doña Bella</title>
+  </programme>
+  <programme start="20210604050000 -0500" stop="20210604060000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210604060000 -0500" stop="20210604063000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210604063000 -0500" stop="20210604073000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Famosos y Mascotas</title>
+  </programme>
+  <programme start="20210604073000 -0500" stop="20210604080000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Saberes milenarios</title>
+  </programme>
+  <programme start="20210604080000 -0500" stop="20210604090000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210604090000 -0500" stop="20210604093000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210604093000 -0500" stop="20210604103000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210604103000 -0500" stop="20210604110000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210604110000 -0500" stop="20210604120000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210604120000 -0500" stop="20210604130000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210604130000 -0500" stop="20210604140000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210604140000 -0500" stop="20210604150000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210604150000 -0500" stop="20210604160000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210604160000 -0500" stop="20210604170000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210604170000 -0500" stop="20210604190000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210604190000 -0500" stop="20210604193000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210604193000 -0500" stop="20210604213000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210604213000 -0500" stop="20210604233000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210604233000 -0500" stop="20210605000000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210605000000 -0500" stop="20210605020000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Prueba de amor</title>
+  </programme>
+  <programme start="20210605020000 -0500" stop="20210605030000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210605030000 -0500" stop="20210605041500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210605041500 -0500" stop="20210605050000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20210605050000 -0500" stop="20210605053000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20210605053000 -0500" stop="20210605063000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">El Hombre Increíble</title>
+  </programme>
+  <programme start="20210605063000 -0500" stop="20210605073000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20210605073000 -0500" stop="20210605083000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20210605083000 -0500" stop="20210605093000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210605093000 -0500" stop="20210605103000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Panorama internacional</title>
+  </programme>
+  <programme start="20210605103000 -0500" stop="20210605113000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Políticamente correcto</title>
+  </programme>
+  <programme start="20210605113000 -0500" stop="20210605123000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Esta Semana con Pedro Jiménez</title>
+  </programme>
+  <programme start="20210605123000 -0500" stop="20210605130000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Entre flashes</title>
+  </programme>
+  <programme start="20210605130000 -0500" stop="20210605134500 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Wonder Woman</title>
+  </programme>
+  <programme start="20210605134500 -0500" stop="20210605140000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210605140000 -0500" stop="20210605150000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20210605150000 -0500" stop="20210605160000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">A-Team</title>
+  </programme>
+  <programme start="20210605160000 -0500" stop="20210605170000 -0500" channel="Ecuavisa Quito Full HD">
+    <title lang="es">El Hombre Increíble</title>
+  </programme>
+  <programme start="20210602053000 -0500" stop="20210602054500 -0500" channel="Gama Full HD">
+    <title lang="es">Cosa seria</title>
+  </programme>
+  <programme start="20210602054500 -0500" stop="20210602060000 -0500" channel="Gama Full HD">
+    <title lang="es">El maestro David</title>
+  </programme>
+  <programme start="20210602060000 -0500" stop="20210602070000 -0500" channel="Gama Full HD">
+    <title lang="es">Gamanoticias matinal</title>
+  </programme>
+  <programme start="20210602070000 -0500" stop="20210602073000 -0500" channel="Gama Full HD">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210602073000 -0500" stop="20210602083000 -0500" channel="Gama Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210602083000 -0500" stop="20210602090000 -0500" channel="Gama Full HD">
+    <title lang="es">Pensadores positivos</title>
+  </programme>
+  <programme start="20210602090000 -0500" stop="20210602110000 -0500" channel="Gama Full HD">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210602110000 -0500" stop="20210602113000 -0500" channel="Gama Full HD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210602113000 -0500" stop="20210602123000 -0500" channel="Gama Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210602123000 -0500" stop="20210602130000 -0500" channel="Gama Full HD">
+    <title lang="es">Abriendo tu corazón</title>
+  </programme>
+  <programme start="20210602130000 -0500" stop="20210602134500 -0500" channel="Gama Full HD">
+    <title lang="es">Gamanoticias en la comunidad</title>
+  </programme>
+  <programme start="20210602134500 -0500" stop="20210602143000 -0500" channel="Gama Full HD">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210602143000 -0500" stop="20210602150000 -0500" channel="Gama Full HD">
+    <title lang="es">Festival de los robots</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Gama Full HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602170000 -0500" channel="Gama Full HD">
+    <title lang="es">Tik Music</title>
+  </programme>
+  <programme start="20210602170000 -0500" stop="20210602173000 -0500" channel="Gama Full HD">
+    <title lang="es">Animado</title>
+  </programme>
+  <programme start="20210602173000 -0500" stop="20210602180000 -0500" channel="Gama Full HD">
+    <title lang="es">Abriendo tu corazón</title>
+  </programme>
+  <programme start="20210602180000 -0500" stop="20210602190000 -0500" channel="Gama Full HD">
+    <title lang="es">El bigote del sabor</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Gama Full HD">
+    <title lang="es">Puro teatro</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Gama Full HD">
+    <title lang="es">El encanto de Japón</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602230000 -0500" channel="Gama Full HD">
+    <title lang="es">Quienes mandan aquí</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210603000000 -0500" channel="Gama Full HD">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210603160000 -0500" stop="20210603170000 -0500" channel="Gama Full HD">
+    <title lang="es">Tik Music</title>
+  </programme>
+  <programme start="20210604053000 -0500" stop="20210604060000 -0500" channel="Gama Full HD">
+    <title lang="es">Cosa seria</title>
+  </programme>
+  <programme start="20210604060000 -0500" stop="20210604063000 -0500" channel="Gama Full HD">
+    <title lang="es">Ojo clínico</title>
+  </programme>
+  <programme start="20210604063000 -0500" stop="20210604110000 -0500" channel="Gama Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210604110000 -0500" stop="20210604113000 -0500" channel="Gama Full HD">
+    <title lang="es">Abriendo tu corazón</title>
+  </programme>
+  <programme start="20210604113000 -0500" stop="20210604120000 -0500" channel="Gama Full HD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210604120000 -0500" stop="20210604180000 -0500" channel="Gama Full HD">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210604180000 -0500" stop="20210604190000 -0500" channel="Gama Full HD">
+    <title lang="es">Puro teatro</title>
+  </programme>
+  <programme start="20210604190000 -0500" stop="20210604200000 -0500" channel="Gama Full HD">
+    <title lang="es">Voz y voto 2021</title>
+  </programme>
+  <programme start="20210604200000 -0500" stop="20210604220000 -0500" channel="Gama Full HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210604220000 -0500" stop="20210604230000 -0500" channel="Gama Full HD">
+    <title lang="es">El Último Emperador</title>
+  </programme>
+  <programme start="20210604230000 -0500" stop="20210605000000 -0500" channel="Gama Full HD">
+    <title lang="es">Abriendo tu corazón</title>
+  </programme>
+  <programme start="20210605060000 -0500" stop="20210605063000 -0500" channel="Gama Full HD">
+    <title lang="es">Abriendo tu corazón</title>
+  </programme>
+  <programme start="20210605063000 -0500" stop="20210605083000 -0500" channel="Gama Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210605083000 -0500" stop="20210605090000 -0500" channel="Gama Full HD">
+    <title lang="es">Animado</title>
+  </programme>
+  <programme start="20210605090000 -0500" stop="20210605100000 -0500" channel="Gama Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210605100000 -0500" stop="20210605103000 -0500" channel="Gama Full HD">
+    <title lang="es">Manos que curan</title>
+  </programme>
+  <programme start="20210605103000 -0500" stop="20210605113000 -0500" channel="Gama Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210605113000 -0500" stop="20210605120000 -0500" channel="Gama Full HD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210605120000 -0500" stop="20210605180000 -0500" channel="Gama Full HD">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210605180000 -0500" stop="20210605183000 -0500" channel="Gama Full HD">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210605183000 -0500" stop="20210605190000 -0500" channel="Gama Full HD">
+    <title lang="es">Ecuador de fiesta</title>
+  </programme>
+  <programme start="20210602010000 -0500" stop="20210602013000 -0500" channel="Tc Television Full HD">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20210602013000 -0500" stop="20210602020000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Vivir a plenitud</title>
+  </programme>
+  <programme start="20210602020000 -0500" stop="20210602024500 -0500" channel="Tc Television Full HD">
+    <title lang="es">Muñeca Brava</title>
+  </programme>
+  <programme start="20210602024500 -0500" stop="20210602030000 -0500" channel="Tc Television Full HD">
+    <title lang="es">I dream of Jeannie</title>
+  </programme>
+  <programme start="20210602030000 -0500" stop="20210602033000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20210602033000 -0500" stop="20210602040000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Solteros sin Compromiso</title>
+  </programme>
+  <programme start="20210602040000 -0500" stop="20210602050000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Latin Lover</title>
+  </programme>
+  <programme start="20210602050000 -0500" stop="20210602054500 -0500" channel="Tc Television Full HD">
+    <title lang="es">Noticiero al Cierre</title>
+  </programme>
+  <programme start="20210602054500 -0500" stop="20210602070000 -0500" channel="Tc Television Full HD">
+    <title lang="es">DespiérTC</title>
+  </programme>
+  <programme start="20210602070000 -0500" stop="20210602083000 -0500" channel="Tc Television Full HD">
+    <title lang="es">El Noticiero</title>
+  </programme>
+  <programme start="20210602083000 -0500" stop="20210602093000 -0500" channel="Tc Television Full HD">
+    <title lang="es">The Promise</title>
+  </programme>
+  <programme start="20210602093000 -0500" stop="20210602113000 -0500" channel="Tc Television Full HD">
+    <title lang="es">De Casa en Casa</title>
+  </programme>
+  <programme start="20210602113000 -0500" stop="20210602122000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Me enamore de una pelucona</title>
+  </programme>
+  <programme start="20210602122000 -0500" stop="20210602141500 -0500" channel="Tc Television Full HD">
+    <title lang="es">El Noticiero - 2da. emisión</title>
+  </programme>
+  <programme start="20210602141500 -0500" stop="20210602150000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Gumus</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602173000 -0500" channel="Tc Television Full HD">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20210602173000 -0500" stop="20210602190000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Soy el mejor</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Tc Television Full HD">
+    <title lang="es">El Noticiero - 3ra emisión</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Juntos y revueltos</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602220000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Ruthless City</title>
+  </programme>
+  <programme start="20210602220000 -0500" stop="20210602230000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Vera... a su manera</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210603000000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Esto es fútbol</title>
+  </programme>
+  <programme start="20210603160000 -0500" stop="20210603173000 -0500" channel="Tc Television Full HD">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20210604030000 -0500" stop="20210604033000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Hechizada</title>
+  </programme>
+  <programme start="20210604050000 -0500" stop="20210604060000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Noticiero al Cierre</title>
+  </programme>
+  <programme start="20210604060000 -0500" stop="20210604070000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Los hijos de Don Juan</title>
+  </programme>
+  <programme start="20210604070000 -0500" stop="20210604073000 -0500" channel="Tc Television Full HD">
+    <title lang="es">I dream of Jeannie</title>
+  </programme>
+  <programme start="20210604073000 -0500" stop="20210604080000 -0500" channel="Tc Television Full HD">
+    <title lang="es">I dream of Jeannie</title>
+  </programme>
+  <programme start="20210604080000 -0500" stop="20210604083000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Hechizada</title>
+  </programme>
+  <programme start="20210604083000 -0500" stop="20210604090000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20210604090000 -0500" stop="20210604093000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Las nuevas aventuras de Peter Pan</title>
+  </programme>
+  <programme start="20210604093000 -0500" stop="20210604100000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20210604100000 -0500" stop="20210604103000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20210604103000 -0500" stop="20210604110000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Scream Street</title>
+  </programme>
+  <programme start="20210604110000 -0500" stop="20210604113000 -0500" channel="Tc Television Full HD">
+    <title lang="es">El libro de la selva</title>
+  </programme>
+  <programme start="20210604113000 -0500" stop="20210604120000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Backyardigans</title>
+  </programme>
+  <programme start="20210604120000 -0500" stop="20210604123000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Lassie</title>
+  </programme>
+  <programme start="20210604123000 -0500" stop="20210604130000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Davincible</title>
+  </programme>
+  <programme start="20210604130000 -0500" stop="20210604133000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Sabrina Secrets of a Teenage</title>
+  </programme>
+  <programme start="20210604133000 -0500" stop="20210604140000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20210604140000 -0500" stop="20210604143000 -0500" channel="Tc Television Full HD">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20210604143000 -0500" stop="20210604150000 -0500" channel="Tc Television Full HD">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20210604150000 -0500" stop="20210604170000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Max y los Wharevers</title>
+  </programme>
+  <programme start="20210604170000 -0500" stop="20210604190000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Ellas aman ellos mienten</title>
+  </programme>
+  <programme start="20210604190000 -0500" stop="20210604200000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Reporte especial</title>
+  </programme>
+  <programme start="20210604200000 -0500" stop="20210604220000 -0500" channel="Tc Television Full HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210604220000 -0500" stop="20210604233000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Antuca me enamora</title>
+  </programme>
+  <programme start="20210604233000 -0500" stop="20210605003000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Que levante la mano</title>
+  </programme>
+  <programme start="20210605233000 -0500" stop="20210606003000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Que levante la mano</title>
+  </programme>
+  <programme start="20210606003000 -0500" stop="20210606010000 -0500" channel="Tc Television Full HD">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20210606010000 -0500" stop="20210606013000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Casados con Hijos</title>
+  </programme>
+  <programme start="20210606013000 -0500" stop="20210606020000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Vivir a plenitud</title>
+  </programme>
+  <programme start="20210606020000 -0500" stop="20210606024500 -0500" channel="Tc Television Full HD">
+    <title lang="es">Muñeca Brava</title>
+  </programme>
+  <programme start="20210606024500 -0500" stop="20210606030000 -0500" channel="Tc Television Full HD">
+    <title lang="es">I dream of Jeannie</title>
+  </programme>
+  <programme start="20210606030000 -0500" stop="20210606032000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20210606032000 -0500" stop="20210606040000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20210606040000 -0500" stop="20210606050000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Latin Lover</title>
+  </programme>
+  <programme start="20210606050000 -0500" stop="20210606053000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Solteros sin Compromiso</title>
+  </programme>
+  <programme start="20210606053000 -0500" stop="20210606060000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Vida nueva</title>
+  </programme>
+  <programme start="20210606060000 -0500" stop="20210606061500 -0500" channel="Tc Television Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210606061500 -0500" stop="20210606063000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210606063000 -0500" stop="20210606064500 -0500" channel="Tc Television Full HD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210606064500 -0500" stop="20210606070000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210606070000 -0500" stop="20210606071500 -0500" channel="Tc Television Full HD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210606071500 -0500" stop="20210606073000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210606073000 -0500" stop="20210606080000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210606080000 -0500" stop="20210606081500 -0500" channel="Tc Television Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210606081500 -0500" stop="20210606083000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210606083000 -0500" stop="20210606090000 -0500" channel="Tc Television Full HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210606090000 -0500" stop="20210606103000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Vera... a su manera</title>
+  </programme>
+  <programme start="20210606103000 -0500" stop="20210606110000 -0500" channel="Tc Television Full HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210606110000 -0500" stop="20210606113000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Turcafe</title>
+  </programme>
+  <programme start="20210606113000 -0500" stop="20210606123000 -0500" channel="Tc Television Full HD">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20210606123000 -0500" stop="20210606130000 -0500" channel="Tc Television Full HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210606130000 -0500" stop="20210606133000 -0500" channel="Tc Television Full HD">
+    <title lang="es">TC deportes</title>
+  </programme>
+  <programme start="20210606133000 -0500" stop="20210606140000 -0500" channel="Tc Television Full HD">
+    <title lang="es">I dream of Jeannie</title>
+  </programme>
+  <programme start="20210606140000 -0500" stop="20210606143000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20210606143000 -0500" stop="20210606150000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20210606170000 -0500" stop="20210606180000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Ellas aman ellos mienten</title>
+  </programme>
+  <programme start="20210606180000 -0500" stop="20210606190000 -0500" channel="Tc Television Full HD">
+    <title lang="es">Lo mejor de soy el mejor</title>
+  </programme>
+  <programme start="20210602001500 -0500" stop="20210602011500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Homeland</title>
+  </programme>
+  <programme start="20210602011500 -0500" stop="20210602020000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210602020000 -0500" stop="20210602023000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602023000 -0500" stop="20210602024500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210602024500 -0500" stop="20210602033000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210602033000 -0500" stop="20210602040000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602040000 -0500" stop="20210602041500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210602041500 -0500" stop="20210602050000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Pedro el Escamoso</title>
+  </programme>
+  <programme start="20210602050000 -0500" stop="20210602060000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210602060000 -0500" stop="20210602065500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602065500 -0500" stop="20210602073000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210602073000 -0500" stop="20210602093000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602093000 -0500" stop="20210602113000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210602113000 -0500" stop="20210602123000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210602123000 -0500" stop="20210602132500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210602132500 -0500" stop="20210602140500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602140500 -0500" stop="20210602143500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210602143500 -0500" stop="20210602144500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210602144500 -0500" stop="20210602150000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602163000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210602163000 -0500" stop="20210602170000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210602170000 -0500" stop="20210602180000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210602180000 -0500" stop="20210602190000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602220000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210602220000 -0500" stop="20210602230000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210602231000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210603001500 -0500" stop="20210603011500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210603163000 -0500" stop="20210603170000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210604001500 -0500" stop="20210604011500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">C.S.I. Las Vegas</title>
+  </programme>
+  <programme start="20210605001500 -0500" stop="20210605011500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Rosewood</title>
+  </programme>
+  <programme start="20210605024500 -0500" stop="20210605031500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210605031500 -0500" stop="20210605033000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210605033000 -0500" stop="20210605043000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20210605043000 -0500" stop="20210605050000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20210605050000 -0500" stop="20210605053000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20210605053000 -0500" stop="20210605063000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210605063000 -0500" stop="20210605070000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210605070000 -0500" stop="20210605073000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Corp. Estatal de Radio TV</title>
+  </programme>
+  <programme start="20210605073000 -0500" stop="20210605080000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210605080000 -0500" stop="20210605095000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210605095000 -0500" stop="20210605103000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20210605103000 -0500" stop="20210605110000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210605110000 -0500" stop="20210605120000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Knight Squad</title>
+  </programme>
+  <programme start="20210605120000 -0500" stop="20210605123000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210605123000 -0500" stop="20210605133000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210605133000 -0500" stop="20210605140000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210605140000 -0500" stop="20210605170000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Súper Nick</title>
+  </programme>
+  <programme start="20210605170000 -0500" stop="20210605173000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210605173000 -0500" stop="20210605180000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210605180000 -0500" stop="20210605190000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Fresh Off the Boat</title>
+  </programme>
+  <programme start="20210605190000 -0500" stop="20210605200000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Glee</title>
+  </programme>
+  <programme start="20210605200000 -0500" stop="20210605220000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Princesa valiente</title>
+  </programme>
+  <programme start="20210605220000 -0500" stop="20210605223500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210605223500 -0500" stop="20210605230000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Enchufe tv</title>
+  </programme>
+  <programme start="20210605230000 -0500" stop="20210605230500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210605230500 -0500" stop="20210606011500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210606011500 -0500" stop="20210606021500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">UHF</title>
+  </programme>
+  <programme start="20210606021500 -0500" stop="20210606024500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210606024500 -0500" stop="20210606043000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210606043000 -0500" stop="20210606053000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Geeks</title>
+  </programme>
+  <programme start="20210606053000 -0500" stop="20210606060000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20210606060000 -0500" stop="20210606070000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Kill Me, Heal Me</title>
+  </programme>
+  <programme start="20210606070000 -0500" stop="20210606073000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210606073000 -0500" stop="20210606080000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210606080000 -0500" stop="20210606100000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210606100000 -0500" stop="20210606103000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">La Cocina del Chef</title>
+  </programme>
+  <programme start="20210606103000 -0500" stop="20210606110000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">El Encantador de Perros</title>
+  </programme>
+  <programme start="20210606110000 -0500" stop="20210606113300 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210606113300 -0500" stop="20210606120000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Documentales de Animales</title>
+  </programme>
+  <programme start="20210606120000 -0500" stop="20210606123000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210606123000 -0500" stop="20210606143000 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">América Vive</title>
+  </programme>
+  <programme start="20210606143000 -0500" stop="20210606154500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Oie</title>
+  </programme>
+  <programme start="20210606154500 -0500" stop="20210606164500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210606164500 -0500" stop="20210606174500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210606174500 -0500" stop="20210606191500 -0500" channel="Teleamazonas FHD(Guayaquil)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210602001500 -0500" stop="20210602011500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Homeland</title>
+  </programme>
+  <programme start="20210602011500 -0500" stop="20210602020000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210602020000 -0500" stop="20210602023000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602023000 -0500" stop="20210602024500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210602024500 -0500" stop="20210602033000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210602033000 -0500" stop="20210602040000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602040000 -0500" stop="20210602041500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210602041500 -0500" stop="20210602050000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Pedro el Escamoso</title>
+  </programme>
+  <programme start="20210602050000 -0500" stop="20210602060000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210602060000 -0500" stop="20210602065500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602065500 -0500" stop="20210602073000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210602073000 -0500" stop="20210602093000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602093000 -0500" stop="20210602113000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210602113000 -0500" stop="20210602123000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210602123000 -0500" stop="20210602132500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210602132500 -0500" stop="20210602140500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602140500 -0500" stop="20210602143500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210602143500 -0500" stop="20210602144500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210602144500 -0500" stop="20210602150000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602163000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210602163000 -0500" stop="20210602170000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210602170000 -0500" stop="20210602180000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210602180000 -0500" stop="20210602190000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602220000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210602220000 -0500" stop="20210602230000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210602231000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210603001500 -0500" stop="20210603011500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210603163000 -0500" stop="20210603170000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210604001500 -0500" stop="20210604011500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">C.S.I. Las Vegas</title>
+  </programme>
+  <programme start="20210605001500 -0500" stop="20210605011500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Rosewood</title>
+  </programme>
+  <programme start="20210605024500 -0500" stop="20210605031500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210605031500 -0500" stop="20210605033000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210605033000 -0500" stop="20210605043000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20210605043000 -0500" stop="20210605050000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20210605050000 -0500" stop="20210605053000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20210605053000 -0500" stop="20210605063000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210605063000 -0500" stop="20210605070000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210605070000 -0500" stop="20210605073000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Corp. Estatal de Radio TV</title>
+  </programme>
+  <programme start="20210605073000 -0500" stop="20210605080000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210605080000 -0500" stop="20210605095000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210605095000 -0500" stop="20210605103000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20210605103000 -0500" stop="20210605110000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210605110000 -0500" stop="20210605120000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Knight Squad</title>
+  </programme>
+  <programme start="20210605120000 -0500" stop="20210605123000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210605123000 -0500" stop="20210605133000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210605133000 -0500" stop="20210605140000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210605140000 -0500" stop="20210605170000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Súper Nick</title>
+  </programme>
+  <programme start="20210605170000 -0500" stop="20210605173000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210605173000 -0500" stop="20210605180000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210605180000 -0500" stop="20210605190000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Fresh Off the Boat</title>
+  </programme>
+  <programme start="20210605190000 -0500" stop="20210605200000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Glee</title>
+  </programme>
+  <programme start="20210605200000 -0500" stop="20210605220000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Princesa valiente</title>
+  </programme>
+  <programme start="20210605220000 -0500" stop="20210605223500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210605223500 -0500" stop="20210605230000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Enchufe tv</title>
+  </programme>
+  <programme start="20210605230000 -0500" stop="20210605230500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210605230500 -0500" stop="20210606011500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210606011500 -0500" stop="20210606021500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">UHF</title>
+  </programme>
+  <programme start="20210606021500 -0500" stop="20210606024500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210606024500 -0500" stop="20210606043000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210606043000 -0500" stop="20210606053000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Geeks</title>
+  </programme>
+  <programme start="20210606053000 -0500" stop="20210606060000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20210606060000 -0500" stop="20210606070000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Kill Me, Heal Me</title>
+  </programme>
+  <programme start="20210606070000 -0500" stop="20210606073000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210606073000 -0500" stop="20210606080000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210606080000 -0500" stop="20210606100000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210606100000 -0500" stop="20210606103000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">La Cocina del Chef</title>
+  </programme>
+  <programme start="20210606103000 -0500" stop="20210606110000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">El Encantador de Perros</title>
+  </programme>
+  <programme start="20210606110000 -0500" stop="20210606113300 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210606113300 -0500" stop="20210606120000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Documentales de Animales</title>
+  </programme>
+  <programme start="20210606120000 -0500" stop="20210606123000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210606123000 -0500" stop="20210606143000 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">América Vive</title>
+  </programme>
+  <programme start="20210606143000 -0500" stop="20210606154500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Oie</title>
+  </programme>
+  <programme start="20210606154500 -0500" stop="20210606164500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210606164500 -0500" stop="20210606174500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210606174500 -0500" stop="20210606191500 -0500" channel="Teleamazonas Full HD(Quito)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210602010000 -0500" stop="20210602020000 -0500" channel="Rts Full HD">
+    <title lang="es">NÚM3ROS</title>
+  </programme>
+  <programme start="20210602020000 -0500" stop="20210602030000 -0500" channel="Rts Full HD">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210602030000 -0500" stop="20210602040000 -0500" channel="Rts Full HD">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210602040000 -0500" stop="20210602050000 -0500" channel="Rts Full HD">
+    <title lang="es">Ecuador Multicolor</title>
+  </programme>
+  <programme start="20210602050000 -0500" stop="20210602060000 -0500" channel="Rts Full HD">
+    <title lang="es">La noticia</title>
+  </programme>
+  <programme start="20210602060000 -0500" stop="20210602070000 -0500" channel="Rts Full HD">
+    <title lang="es">El despertar de La Noticia</title>
+  </programme>
+  <programme start="20210602070000 -0500" stop="20210602080000 -0500" channel="Rts Full HD">
+    <title lang="es">La noticia</title>
+  </programme>
+  <programme start="20210602080000 -0500" stop="20210602093000 -0500" channel="Rts Full HD">
+    <title lang="es">La noticia en la comunidad</title>
+  </programme>
+  <programme start="20210602093000 -0500" stop="20210602110000 -0500" channel="Rts Full HD">
+    <title lang="es">Noticias de la mañana</title>
+  </programme>
+  <programme start="20210602110000 -0500" stop="20210602120000 -0500" channel="Rts Full HD">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20210602120000 -0500" stop="20210602130000 -0500" channel="Rts Full HD">
+    <title lang="es">Karadayi</title>
+  </programme>
+  <programme start="20210602130000 -0500" stop="20210602140000 -0500" channel="Rts Full HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210602140000 -0500" stop="20210602150000 -0500" channel="Rts Full HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Rts Full HD">
+    <title lang="es">EDUCA La hora educativa</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602170000 -0500" channel="Rts Full HD">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20210602170000 -0500" stop="20210602180000 -0500" channel="Rts Full HD">
+    <title lang="es">Volver a Amar</title>
+  </programme>
+  <programme start="20210602180000 -0500" stop="20210602190000 -0500" channel="Rts Full HD">
+    <title lang="es">¿Qué culpa tiene Fatmagul</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Rts Full HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Rts Full HD">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602220000 -0500" channel="Rts Full HD">
+    <title lang="es">Fugitiva</title>
+  </programme>
+  <programme start="20210602220000 -0500" stop="20210602230000 -0500" channel="Rts Full HD">
+    <title lang="es">La noticia</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210603000000 -0500" channel="Rts Full HD">
+    <title lang="es">Suleimán, el sultán</title>
+  </programme>
+  <programme start="20210603160000 -0500" stop="20210603170000 -0500" channel="Rts Full HD">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20210604060000 -0500" stop="20210604070000 -0500" channel="Rts Full HD">
+    <title lang="es">Ranty Ranty</title>
+  </programme>
+  <programme start="20210604070000 -0500" stop="20210604080000 -0500" channel="Rts Full HD">
+    <title lang="es">Beyblade Burst</title>
+  </programme>
+  <programme start="20210604080000 -0500" stop="20210604083000 -0500" channel="Rts Full HD">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210604083000 -0500" stop="20210604090000 -0500" channel="Rts Full HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210604090000 -0500" stop="20210604100000 -0500" channel="Rts Full HD">
+    <title lang="es">Más Guayaquil TV</title>
+  </programme>
+  <programme start="20210604100000 -0500" stop="20210604120000 -0500" channel="Rts Full HD">
+    <title lang="es">Reto cuatro elementos</title>
+  </programme>
+  <programme start="20210604120000 -0500" stop="20210604130000 -0500" channel="Rts Full HD">
+    <title lang="es">Policías novatos</title>
+  </programme>
+  <programme start="20210604130000 -0500" stop="20210604140000 -0500" channel="Rts Full HD">
+    <title lang="es">Guerrero Ninja Americano</title>
+  </programme>
+  <programme start="20210604140000 -0500" stop="20210604150000 -0500" channel="Rts Full HD">
+    <title lang="es">Scorpion</title>
+  </programme>
+  <programme start="20210604150000 -0500" stop="20210604160000 -0500" channel="Rts Full HD">
+    <title lang="es">NCIS: Nueva Orleans</title>
+  </programme>
+  <programme start="20210604160000 -0500" stop="20210604170000 -0500" channel="Rts Full HD">
+    <title lang="es">The Rookie</title>
+  </programme>
+  <programme start="20210604170000 -0500" stop="20210604180000 -0500" channel="Rts Full HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210604180000 -0500" stop="20210604200000 -0500" channel="Rts Full HD">
+    <title lang="es">María Mercedes</title>
+  </programme>
+  <programme start="20210604200000 -0500" stop="20210604210000 -0500" channel="Rts Full HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210604210000 -0500" stop="20210604220000 -0500" channel="Rts Full HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210604220000 -0500" stop="20210604230000 -0500" channel="Rts Full HD">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210604230000 -0500" stop="20210605000000 -0500" channel="Rts Full HD">
+    <title lang="es">El transportador</title>
+  </programme>
+  <programme start="20210605040000 -0500" stop="20210605060000 -0500" channel="Rts Full HD">
+    <title lang="es">La rosa blanca</title>
+  </programme>
+  <programme start="20210605060000 -0500" stop="20210605070000 -0500" channel="Rts Full HD">
+    <title lang="es">El diván</title>
+  </programme>
+  <programme start="20210605070000 -0500" stop="20210605080000 -0500" channel="Rts Full HD">
+    <title lang="es">Beyblade Burst</title>
+  </programme>
+  <programme start="20210605080000 -0500" stop="20210605083000 -0500" channel="Rts Full HD">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210605083000 -0500" stop="20210605090000 -0500" channel="Rts Full HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210605090000 -0500" stop="20210605100000 -0500" channel="Rts Full HD">
+    <title lang="es">Más Guayaquil TV</title>
+  </programme>
+  <programme start="20210605100000 -0500" stop="20210605120000 -0500" channel="Rts Full HD">
+    <title lang="es">Reto cuatro elementos</title>
+  </programme>
+  <programme start="20210605120000 -0500" stop="20210605130000 -0500" channel="Rts Full HD">
+    <title lang="es">Policías novatos</title>
+  </programme>
+  <programme start="20210605130000 -0500" stop="20210605140000 -0500" channel="Rts Full HD">
+    <title lang="es">Guerrero Ninja Americano</title>
+  </programme>
+  <programme start="20210605140000 -0500" stop="20210605150000 -0500" channel="Rts Full HD">
+    <title lang="es">Scorpion</title>
+  </programme>
+  <programme start="20210605150000 -0500" stop="20210605160000 -0500" channel="Rts Full HD">
+    <title lang="es">NCIS: Nueva Orleans</title>
+  </programme>
+  <programme start="20210605160000 -0500" stop="20210605170000 -0500" channel="Rts Full HD">
+    <title lang="es">The Rookie</title>
+  </programme>
+  <programme start="20210605170000 -0500" stop="20210605180000 -0500" channel="Rts Full HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210605180000 -0500" stop="20210605200000 -0500" channel="Rts Full HD">
+    <title lang="es">María Mercedes</title>
+  </programme>
+  <programme start="20210602003000 -0500" stop="20210602013000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602013000 -0500" stop="20210602043000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210602043000 -0500" stop="20210602053000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210602053000 -0500" stop="20210602060000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210602060000 -0500" stop="20210602080000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602080000 -0500" stop="20210602100000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210602100000 -0500" stop="20210602110000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210602110000 -0500" stop="20210602120000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210602120000 -0500" stop="20210602123000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210602123000 -0500" stop="20210602130000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210602130000 -0500" stop="20210602140000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602140000 -0500" stop="20210602145000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210602145000 -0500" stop="20210602150000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602163000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210602163000 -0500" stop="20210602183000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210602183000 -0500" stop="20210602190000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602220000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210602220000 -0500" stop="20210602230000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210603000000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210603163000 -0500" stop="20210603183000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210604013000 -0500" stop="20210604060000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210604060000 -0500" stop="20210604063000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210604063000 -0500" stop="20210604073000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210604073000 -0500" stop="20210604080000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604080000 -0500" stop="20210604083000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210604083000 -0500" stop="20210604090000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604090000 -0500" stop="20210604110000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210604110000 -0500" stop="20210604120000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210604120000 -0500" stop="20210604130000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210604130000 -0500" stop="20210604140000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210604140000 -0500" stop="20210604150000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210604150000 -0500" stop="20210604173000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210604173000 -0500" stop="20210604183000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210604183000 -0500" stop="20210604190000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604190000 -0500" stop="20210604193000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210604193000 -0500" stop="20210604200000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210604200000 -0500" stop="20210604203000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604203000 -0500" stop="20210604213000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210604213000 -0500" stop="20210604223000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Cortometraje</title>
+  </programme>
+  <programme start="20210604223000 -0500" stop="20210604233000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604233000 -0500" stop="20210605003000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210605003000 -0500" stop="20210605013000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210605013000 -0500" stop="20210605033000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210605033000 -0500" stop="20210605040000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210605040000 -0500" stop="20210605060000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210605073000 -0500" stop="20210605080000 -0500" channel="Ecuador TV Full HD">
+    <title lang="es">Misa</title>
+  </programme>
+  <programme start="20210602003000 -0500" stop="20210602013000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602013000 -0500" stop="20210602043000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210602043000 -0500" stop="20210602053000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210602053000 -0500" stop="20210602060000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210602060000 -0500" stop="20210602080000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602080000 -0500" stop="20210602100000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210602100000 -0500" stop="20210602110000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210602110000 -0500" stop="20210602120000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210602120000 -0500" stop="20210602123000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210602123000 -0500" stop="20210602130000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210602130000 -0500" stop="20210602140000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602140000 -0500" stop="20210602145000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210602145000 -0500" stop="20210602150000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210602150000 -0500" stop="20210602160000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210602160000 -0500" stop="20210602163000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210602163000 -0500" stop="20210602183000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210602183000 -0500" stop="20210602190000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210602190000 -0500" stop="20210602200000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210602200000 -0500" stop="20210602210000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210602210000 -0500" stop="20210602220000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210602220000 -0500" stop="20210602230000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210602230000 -0500" stop="20210603000000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210603163000 -0500" stop="20210603183000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210604013000 -0500" stop="20210604060000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210604060000 -0500" stop="20210604063000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210604063000 -0500" stop="20210604073000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210604073000 -0500" stop="20210604080000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604080000 -0500" stop="20210604083000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210604083000 -0500" stop="20210604090000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604090000 -0500" stop="20210604110000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210604110000 -0500" stop="20210604120000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210604120000 -0500" stop="20210604130000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210604130000 -0500" stop="20210604140000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210604140000 -0500" stop="20210604150000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210604150000 -0500" stop="20210604173000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210604173000 -0500" stop="20210604183000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210604183000 -0500" stop="20210604190000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604190000 -0500" stop="20210604193000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210604193000 -0500" stop="20210604200000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210604200000 -0500" stop="20210604203000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604203000 -0500" stop="20210604213000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210604213000 -0500" stop="20210604223000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Cortometraje</title>
+  </programme>
+  <programme start="20210604223000 -0500" stop="20210604233000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210604233000 -0500" stop="20210605003000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210605003000 -0500" stop="20210605013000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210605013000 -0500" stop="20210605033000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210605033000 -0500" stop="20210605040000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210605040000 -0500" stop="20210605060000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210605073000 -0500" stop="20210605080000 -0500" channel="Ecuador TV HD">
+    <title lang="es">Misa</title>
+  </programme>
+</tv>
